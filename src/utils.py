@@ -1,2 +1,3 @@
-def get_sum(x, y):
-    return x + y
+def get_sum(x: int, y: int) -> float:
+    result = x + y
+    return result
